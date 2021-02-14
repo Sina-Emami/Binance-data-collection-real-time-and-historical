@@ -1,11 +1,13 @@
 # Binance-data-collection-real-time-and-historical
-*It would collect the real time prices of BTC in USDT from https://www.binance.com/en, moreover it take the 24 hours data and put in to excel.*
+## Summary of task:
+*This task has consisted of two-part. First, the close prices of BTC in every minute candles from 24 hours ago needed to be gathered. Second, the close aforementioned part must be done for the next 24 hours in real-time.*
 <br>
 </br>
-![plot](D:\sina\intership\Nico/historical.jpg)
-<p align="center">
-  <img src="D:\sina\intership\Nico/historical.jpg" width="350" title="hover text">
-</p>
 
+## Bitcoin’s historical prices data in xlsx format:
+<p align="left"> For this part of the task, I found a third-party library named python-binance. The way this library work needed Binance API to connect to the Binance servers via Python or several other programming languages. due to that, the first step is to create an account with Binance. An API key should be created after it. </p>
+**Installing library:
 
-![Image of Yaktocat](https://ibb.co/4f90S2q)
+    ```
+    pip install python-binance
+    ```
