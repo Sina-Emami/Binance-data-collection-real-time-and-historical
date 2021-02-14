@@ -1,0 +1,10 @@
+python-binance
+websocket-client
+DateTime
+requests
+pandas
+numpy
+cryptography
+certifi
+cffi
+openpyxl
