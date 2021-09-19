@@ -1,6 +1,6 @@
 # Binance data collection real-time and historical
-## Summary of task:
-*This task has consisted of two-part. First, the close prices of BTC in every minute candles from 24 hours ago needed to be gathered. Secondly, the aforementioned part must be done for the next 24 hours in real-time. Data have been collected from <a href='https://www.binance.com/en'>binance.com</a>*
+## Summary of project:
+*This project has consisted of two-part. First, the close prices of BTC in every minute candles from 24 hours ago needed to be gathered. Secondly, the aforementioned part must be done for the next 24 hours in real-time. Data have been collected from <a href='https://www.binance.com/en'>binance.com</a>*
 </br>
 
 ## Bitcoin’s historical prices data in xlsx format:
